@@ -1,0 +1,12 @@
+//Code hello word program
+
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+cout << "Hello word\n";
+
+return 0;
+}
